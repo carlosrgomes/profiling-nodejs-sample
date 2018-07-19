@@ -1,38 +1,37 @@
 # Exemplo de Node.js em App Engine flexible com profiler
 
-This is the sample application for Node.js in the App Engine flexible environment witch profiler
+Exemplo de aplicação Node.js com  App Engine flexible e profiler
 
 ## Setup
 
-Before you can run or deploy the sample, you need to do the following:
+Antes de fazer o deploy
 
+1.  Instalar as dependências:
 
-1.  Install dependencies:
-
-    With `npm`:
+    Com `npm`:
 
         npm install
 
-    or with `yarn`:
+    ou `yarn`:
 
         yarn install
 
 ## Running locally
 
-With `npm`:
+Com `npm`:
 
     npm start
 
-or with `yarn`:
+ou `yarn`:
 
     yarn start
 
 ## Deploying to App Engine
 
-With `npm`:
+Com `npm`:
 
     npm run deploy
 
-or with `yarn`:
+ou `yarn`:
 
     yarn run deploy
